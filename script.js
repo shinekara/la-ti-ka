@@ -1,5 +1,5 @@
 const penyapa = doucument.GetElementByID("Sapa Aku");
-KI.addEventListener("click", function() {
+penyapa.addEventListener("click", function() {
   alert ("Heyyyooooo");
 });
 
